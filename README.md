@@ -6,6 +6,8 @@
 http://localhost:3000/page/1
 
 ## Instructions to opon the project
-use the following command to start
-```npm i```
+use the following command to install the packages
+```npm i```<br/>
+use the following command to start the project
+```npm run start ```<br/>
 open the specified home route to see the assignment
